@@ -1,2 +1,2 @@
 # PASSING-THE-MESSAGE
-Assignment 2 for all students of course Systems, Networks and Concurrency
+Assignment 2: Systems, Networks and Concurrency 2019
